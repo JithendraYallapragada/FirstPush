@@ -7,4 +7,6 @@ this is my first push to git.....
 This is updated Section
 1)version 0.0.1
 
+2) through stagged
+
 
